@@ -99,7 +99,7 @@ Fork the repo and edit as per your needs.
 - [GNU General Public License](./LICENSE)
 
 
-## CREDITS
+## CREDIT
 
 - [Laky-64](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
